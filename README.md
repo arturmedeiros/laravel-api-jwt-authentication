@@ -15,6 +15,7 @@
 ## About
 
 REST API project using Laravel framework. Ready-to-use User CRUD (Model and Controllers), in addition to the Authentication routes. Download the Insomnia Collection to test requests locally.
+
 ## ✅ Requirements
 To use the project, you need to have some packages and starter packages on your computer.
 See the standard requirements by [LARAVEL](https://laravel.com/docs/9.x/deployment#server-requirements):
@@ -33,14 +34,16 @@ See the standard requirements by [LARAVEL](https://laravel.com/docs/9.x/deployme
 - Tokenizer PHP Extension
 - XML PHP Extension
 
-##🚀 Get started
+## 🚀 Get started
 
 ### 1) Laravel dependencies installation
-```
+
+```shell
 composer install
 ```
 
 ### 2) Configure .ENV file
+
 Rename ".env.example" file to ".env" and configure your database data. 
 
 ```shell
@@ -53,6 +56,7 @@ DB_PASSWORD=
 ```
 
 ### 3) Generate Keys
+
 ```shell
 php artisan key:generate && php artisan jwt:secret
 ```
@@ -69,12 +73,13 @@ php artisan migrate --seed
 php artisan serve
 ```
 
-## 🧑🏻‍💻 Authors
+## 🧑🏻‍💻 Author
 
 - [@arturmedeiros](https://www.github.com/arturmedeiros)
 
 
 ##📖 References
+
 - [Laravel Framework](https://laravel.com)
 
 - [JWT Token](https://jwt-auth.readthedocs.io/en/develop/laravel-installation/)
