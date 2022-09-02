@@ -8,7 +8,9 @@
 
 ![Android SDK](https://img.shields.io/badge/8.75-100000?label=Laravel&style=for-the-badge&logo=laravel&color=f20000)
 ![Android SDK](https://img.shields.io/badge/7.4-100000?label=PHP&style=for-the-badge&logo=php&color=007bff)
-![Insomnia](https://img.shields.io/badge/Insomnia_Collection-555555?style=for-the-badge&logo=Insomnia)
+<a href="https://github.com/arturmedeiros/laravel-api-jwt-authentication/blob/e38558adcc82a2c3f371475e165cd4ce679eab2f/insomnia_api-laravel_jwt_authentication_collection.json" target="_blank">
+<img src="https://img.shields.io/badge/Insomnia_Collection-555555?style=for-the-badge&logo=Insomnia">
+</a>
 
 ## About
 
